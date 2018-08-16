@@ -39,15 +39,19 @@ This library is a React Native bridge around native tooltips. It allows you to c
 
 - **Android**
 
-Please add below snippet into your app `build.gradle`
 
+
+Please add below snippet into your app `build.gradle` (app)
 ```
 
-build.gradle (Module: app)
 //add dependency
-implement 'com.github.florent37:viewtooltip:1.1.5'
+ compile project(':react-native-tooltips')
+ 
+ ```
 
-build.gradle (Project)
+Please add below snippet into your app `build.gradle` (project)
+```
+
 
 buildscript {
     repositories {
