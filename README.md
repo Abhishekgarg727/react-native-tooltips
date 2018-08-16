@@ -13,7 +13,6 @@ npm i --save abhishekgarg727/react-native-tooltips
 
     ReactNative: Native Tooltips (Android/iOS)
 
-If this project has helped you out, please support us with a star 🌟
 </h1>
 
 This library is a React Native bridge around native tooltips. It allows you to create simple tip views.
