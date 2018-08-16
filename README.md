@@ -43,6 +43,12 @@ Please add below snippet into your app `build.gradle`
 
 ```
 
+build.gradle (Module: app)
+//add dependency
+implement 'com.github.florent37:viewtooltip:1.1.5'
+
+build.gradle (Project)
+
 buildscript {
     repositories {
         jcenter()
