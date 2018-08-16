@@ -1,5 +1,5 @@
 {
-    "name": "@abhishekgarg727/react-native-tooltips",
+    "name": "react-native-tooltips",
     "version": "0.0.6",
     "description": "React Native: Native Tooltip View",
     "main": "RNTooltips.js",
