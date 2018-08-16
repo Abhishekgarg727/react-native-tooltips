@@ -1,5 +1,5 @@
 <h1 align="center">
-
+npm i --save abhishekgarg727/react-native-tooltips
 <p align="center">
   <img src="https://storage.googleapis.com/material-design/publish/material_v_12/assets/0B7WCemMG6e0VZ1JKMzJFcmhOWkk/components-tooltips.png" width="300" height="300" />
 </p>
