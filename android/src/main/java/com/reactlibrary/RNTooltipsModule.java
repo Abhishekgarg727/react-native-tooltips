@@ -20,8 +20,8 @@ import com.github.florent37.viewtooltip.ViewTooltip;
 
 public class RNTooltipsModule extends ReactContextBaseJavaModule {
 
-  private final ReactApplicationContext reactContext;
-  private ViewTooltip tooltip;
+  public final ReactApplicationContext reactContext;
+  public ViewTooltip tooltip;
 
   public RNTooltipsModule(ReactApplicationContext reactContext) {
     super(reactContext);
